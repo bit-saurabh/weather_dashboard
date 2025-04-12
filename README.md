@@ -142,10 +142,6 @@ tabs = st.tabs(["Time Series", "Monthly Trends", "Seasonal Analysis", "Correlati
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Built with [Streamlit](https://streamlit.io/)
